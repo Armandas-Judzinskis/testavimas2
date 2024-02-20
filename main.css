@@ -3,4 +3,9 @@
     display: flex;
     text-align: center;
     flex-direction: column;
+    color: aliceblue;
+}
+
+p{
+    color: rgb(238, 232, 232);
 }
