@@ -1,0 +1,6 @@
+#sekcija1{
+    background-color: blueviolet;
+    display: flex;
+    text-align: center;
+    flex-direction: column;
+}
