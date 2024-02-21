@@ -1,0 +1,1 @@
+document.getElementById('helloWorld').innerHTML = "Sveiki Atvykę į puslapįi!";
