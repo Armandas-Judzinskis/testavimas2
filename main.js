@@ -1,1 +1,1 @@
-document.getElementById('helloWorld').innerHTML = "Sveiki Atvykę į puslapį!";
+document.getElementById('helloWorld').innerHTML = "Sveiki Atvykę į puslapįi!";
