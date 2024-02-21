@@ -18,3 +18,9 @@ p{
     text-align: center;
     flex-direction: column;
 }
+
+#helloWorld{
+    margin: 50px;
+    font-size: 40px;
+    text-align: center;
+}
